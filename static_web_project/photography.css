@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.logo {
+    width: 400px;
+    height: 420px;
+}
+
+.logo-box {
+    display: flex;
+    justify-content: center;
+}
+
+.title2 {
+    font-family: "Times New Roman";
+}
+
+.home-pg-body {
+    color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.home-pg-txt-body {
+    padding: 20px;
+}
+
+.theme {
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.bg {
+    background-color: black;
+    height: 100%;
+    color: white;
+    font-family: "Times New Roman";
+    width: 100%;
+}
+
+.contact {
+    padding: 20px;
+    font-family: Courier New;
+    font-size: 15px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 10px;
+    height: 100vh;
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.box1 {
+    background-image: url("https://res.cloudinary.com/dqzguqibd/image/upload/v1741264025/267ba0aed8c18456dea28e6fe020837d_dm43xs.jpg");
+    background-size: cover;
+}
+
+.box2 {
+    background-image: url("https://res.cloudinary.com/dqzguqibd/image/upload/v1741266321/f649e96896ca4bcf042931c063f4f541_r8wkyr.jpg");
+    background-size: cover;
+    color: #00eaff;
+}
+
+.box4 {
+    background-image: url("https://res.cloudinary.com/dqzguqibd/image/upload/v1741266321/5bb05d65e59af0eee21e265cb8d8b55d_o8gznq.jpg");
+    background-size: cover;
+    color: brown;
+}
+
+.box3 {
+    background-image: url("https://res.cloudinary.com/dqzguqibd/image/upload/v1741265927/20250104_165947_rpq6sv.jpg");
+    background-size: cover;
+    color: black;
+}
+
+.box5 {
+    background-image: url("https://res.cloudinary.com/dqzguqibd/image/upload/v1741267713/308c3b5a4c7fcbfd067f45f6839c6235_mow3ck.jpg");
+    background-size: cover;
+    color: yellow;
+}
+
+.end-tag {
+    color: grey;
+    font-family: "Georgia";
+}
+
+.box-heading {
+    font-size: 32px;
+    font-family: "Monoton";
+    font-weight: 700;
+}
+
+.button {
+    border-radius: 15px;
+    background-color: black;
+    border-color: white;
+    color: white;
+    width: 50%;
+    height: 40px;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
+
+.box-para {
+    font-family: "Caveat";
+    font-size: 22px;
+}
+
+.insta-box {
+    display: flex;
+}
+
+.contact-heading {
+    font-size: 15px;
+}
+
+.line {
+    height: 1px;
+    margin: 10px;
+    border: 1px white solid;
+}
+
+.accnt {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+a {
+    color: yellow;
+}
+
+a:hover {
+    color: white;
+}
+
+.number {
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.logo-insta {
+    width: 25px;
+    margin-bottom: 5px;
+    height: 25px;
+}
